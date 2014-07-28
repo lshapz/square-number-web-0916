@@ -1,8 +1,8 @@
 class Integer
   def square_number?
     counter = 0
-    until counter * counter > self
-      if self == counter * counter
+    until counter ** 2 > self
+      if self == counter ** 2
         return counter
       end
       counter += 1
