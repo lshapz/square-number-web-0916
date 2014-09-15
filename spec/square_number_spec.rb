@@ -1,5 +1,3 @@
-require_relative 'spec_helper'
-
 describe "#square_number" do
   
   it "returns the integer that is the square of the integer argument" do
