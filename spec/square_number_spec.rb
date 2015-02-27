@@ -1,5 +1,10 @@
 describe "#square_number" do
   
+  it "does not use Ruby's square root method" do
+    expect(Math).to_not receive(:sqrt).with(16)
+    16.square_number?
+  end
+
   it "returns the integer that is the square of the integer argument" do
     expect(4.square_number?).to eq(2)
     expect(9.square_number?).to eq(3)
