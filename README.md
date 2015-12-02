@@ -38,3 +38,5 @@ Challenge yourself and avoid using Ruby's built-in math methods, such as `sqrt(x
 ## Resources
 
 * [Wikipedia](http://en.wikipedia.org/) - [Square Number](http://en.wikipedia.org/wiki/Square_number)
+
+<a href='https://learn.co/lessons/square-number' data-visibility='hidden'>View this lesson on Learn.co</a>
