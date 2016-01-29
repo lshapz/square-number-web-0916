@@ -39,4 +39,4 @@ Challenge yourself and avoid using Ruby's built-in math methods, such as `sqrt(x
 
 * [Wikipedia](http://en.wikipedia.org/) - [Square Number](http://en.wikipedia.org/wiki/Square_number)
 
-<a href='https://learn.co/lessons/square-number' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/square-number' title='Square Number'>Square Number</a> on Learn.co and start learning to code for free.</p>
